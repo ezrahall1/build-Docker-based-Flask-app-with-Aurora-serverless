@@ -42,7 +42,7 @@ The final step is creating the the bash script name for example testscript.sh an
 <img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
 
 
-<H3>Step 3 – IAM</H3>
+<H3>Step 4 – IAM</H3>
 
 <img src="https://i.imgur.com/WtDE4tp.png" height="80%" width="80%" alt="Image 6"/>
 
