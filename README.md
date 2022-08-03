@@ -26,7 +26,7 @@ In this project I will demonstrate how I set up a flask based docker application
 
 <h2>Program walk-through:</h2> 
 <H3>Step 1 - RDS</H3>
-Once I had configured my app files in Visual Studio, I went to the RDS section in order to create the database.
+Once I had configured my app files in Visual Studio, I went to the RDS section in AWS to create the database.
 
 <img src="https://i.imgur.com/fdVAGzB.png" height="80%" width="80%" alt="Image 1"/>
 
