@@ -32,19 +32,19 @@ Once I had configured my app files in Visual Studio, I went to the RDS section i
 
 
 <H3>Step 2 – Secrets Manager</H3>
-Once the EC2 instance was in a running state I connected to it, by right clicking and selecting connect.
+In this section I created a secret key in order to store credentials.
 
 <img src="https://i.imgur.com/UzVNQMg.png" height="80%" width="80%" alt="Image 1"/>
 
 
-
 <H3>Step 3 – Connect to database</H3>
-The final step is creating the the bash script name for example testscript.sh and creating the variables in a text editor using this command <b>nano testscript.sh</b>.
+In this section I used the query editor to test whether my Secrets Manager is working correctly.
+
 
 <img src="https://i.imgur.com/oCWhkqD.png" width="80%" alt="Image 3"/>
 
 
 <H3>Step 4 – IAM</H3>
-
+I created a user that has full access to RDS.
 <img src="https://i.imgur.com/O88BBjh.png" height="80%" width="80%" alt="Image 4"/>
 
