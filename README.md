@@ -45,6 +45,6 @@ In this section I used the query editor to test whether my Secrets Manager was w
 
 
 <H3>Step 4 – IAM</H3>
-I created a user that had full access to RDS.
+In this section I created a user that had full access to RDS.
 <img src="https://i.imgur.com/O88BBjh.png" height="80%" width="80%" alt="Image 4"/>
 
