@@ -38,13 +38,13 @@ In this section I created a secret key in order to store credentials.
 
 
 <H3>Step 3 – Connect to database</H3>
-In this section I used the query editor to test whether my Secrets Manager is working correctly.
+In this section I used the query editor to test whether my Secrets Manager was working correctly.
 
 
 <img src="https://i.imgur.com/oCWhkqD.png" width="80%" alt="Image 3"/>
 
 
 <H3>Step 4 – IAM</H3>
-I created a user that has full access to RDS.
+I created a user that had full access to RDS.
 <img src="https://i.imgur.com/O88BBjh.png" height="80%" width="80%" alt="Image 4"/>
 
