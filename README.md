@@ -1,8 +1,7 @@
 <h1>How to build Docker based Flask app with Aurora Serverless</h1>
 
 <h2>Description</h2>
-
-In this project I will demonstrate how I set up a flask based docker application that interacts with Amazon Aurora serverless using the data api
+This project will showcase the setup and deployment of a Flask-based Docker application, specifically designed to interact seamlessly with Amazon Aurora Serverless using the Data API. The demonstration will delve into the step-by-step process of configuring and connecting the Flask application to the serverless database, highlighting the utilization of Docker for containerization. By emphasizing the integration with Amazon Aurora Serverless Data API, the project aims to provide a comprehensive guide on developing and deploying applications that leverage serverless database capabilities, enhancing flexibility and scalability within a Flask-based environment.
 <br />
 
 
